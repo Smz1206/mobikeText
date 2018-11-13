@@ -14,12 +14,12 @@ a{
     background-position: center ;
     background-size: cover ;
 }
-.swiper-slide-01{background: url("../image/hero-bg-3.jpg")}
-.swiper-slide-02{background: url("../image/hero-bg-4.jpg")}
-.swiper-slide-03{background: url("../image/hero-bg-5.jpg")}
-.swiper-slide-04{background: url("../image/hero-bg-6.jpg")}
-.swiper-slide-05{background: url("../image/hero-bg-7.jpg")}
-.swiper-slide-06{background: url("../image/hero-bg-8.jpg")}
+.swiper-slide-01{background: url("image/hero-bg-3.jpg")}
+.swiper-slide-02{background: url("image/hero-bg-4.jpg")}
+.swiper-slide-03{background: url("image/hero-bg-5.jpg")}
+.swiper-slide-04{background: url("image/hero-bg-6.jpg")}
+.swiper-slide-05{background: url("image/hero-bg-7.jpg")}
+.swiper-slide-06{background: url("image/hero-bg-8.jpg")}
 
 .swiper-container{
     position: relative;
@@ -83,7 +83,7 @@ a{
 .heading-wrap .left:hover {
     background-color: rgba(0, 0, 0, 0.77);
 }
-    /*width=内容的宽度(padding和boder已经算过了)*/
+    /*width=内容的宽�?padding和boder已经算过�?*/
 .news-inner{
     height: 22px;
     width: 100%;
